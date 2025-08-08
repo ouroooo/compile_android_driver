@@ -1,4 +1,4 @@
-**Read this in other languages: [English](README.md), [中文](README_zh.md).**
+**Read this in other languages: [English](README_en.md), [中文](README.md).**
 # Automated Kernel Driver Builder
 
 This GitHub Action automates the process of building Android kernel drivers in the cloud, eliminating the need for local compilation environments. It solves common issues like accessing Google's source repositories and reduces compilation time to under 30min.
